@@ -347,9 +347,4 @@ table td{
 		text-align: left;
 	}
 		
-  @media only screen and (max-width: 767px){
-  img{
-    width: 90%;
-    height: auto;
-  }
-}
+
