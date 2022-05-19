@@ -251,6 +251,12 @@ table td{
 	color: #000;
 }
 
+sec05{
+	background: url(../images/bgSec05.png) no-repeat 100% 100% fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	color: #000;
+}
 
 /* RESPONSIVE 設定
 ------------------------------------------------------------*/
